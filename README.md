@@ -1,2 +1,2 @@
-# myPerRepo
+# myPetRepo
 My Pet Repository
